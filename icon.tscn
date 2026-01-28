@@ -5,32 +5,29 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(391, 361)
 texture = ExtResource("1_tr34o")
 
 [node name="Sprite2D2" type="Sprite2D" parent="."]
-position = Vector2(155, 197)
+position = Vector2(606, 142)
 texture = ExtResource("1_tr34o")
 
 [node name="Sprite2D3" type="Sprite2D" parent="."]
-position = Vector2(434, 255)
+position = Vector2(1017, 363)
 texture = ExtResource("1_tr34o")
 
 [node name="Sprite2D4" type="Sprite2D" parent="."]
-position = Vector2(9, 407)
+position = Vector2(563, 454)
 texture = ExtResource("1_tr34o")
 
 [node name="Sprite2D5" type="Sprite2D" parent="."]
-position = Vector2(487, -1)
+position = Vector2(862, 147)
 texture = ExtResource("1_tr34o")
 
 [node name="Sprite2D6" type="Sprite2D" parent="."]
-position = Vector2(412, 424)
+position = Vector2(721, 524)
 texture = ExtResource("1_tr34o")
 
-[node name="Sprite2D6" type="Sprite2D" parent="Sprite2D6"]
-position = Vector2(329, -26)
-texture = ExtResource("1_tr34o")
-
-[node name="Sprite2D6" type="Sprite2D" parent="Sprite2D6/Sprite2D6"]
-position = Vector2(70, -220)
+[node name="Sprite2D7" type="Sprite2D" parent="."]
+position = Vector2(875, 483)
 texture = ExtResource("1_tr34o")
