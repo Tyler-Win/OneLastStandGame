@@ -26,3 +26,7 @@ texture = ExtResource("1_tr34o")
 [node name="Sprite2D6" type="Sprite2D" parent="."]
 position = Vector2(412, 424)
 texture = ExtResource("1_tr34o")
+
+[node name="Sprite2D6" type="Sprite2D" parent="Sprite2D6"]
+position = Vector2(329, -26)
+texture = ExtResource("1_tr34o")
